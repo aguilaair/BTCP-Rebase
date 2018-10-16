@@ -25,12 +25,12 @@ python27
 
 Download the source code:
 ```
-git clone https://github.com/bitcoin/bitcoin
+git clone https://github.com/BTCPrivate/BitcoinPrivate
 ```
 
 See [dependencies.md](dependencies.md) for a complete overview.
 
-### Building Bitcoin Core
+### Building Bitcoin Private
 
 **Important**: Use `gmake` (the non-GNU `make` will exit with an error).
 
