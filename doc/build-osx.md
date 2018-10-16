@@ -40,15 +40,15 @@ from the root of the repository.
 
 **Note**: You only need Berkeley DB if the wallet is enabled (see the section *Disable-Wallet mode* below).
 
-Build Bitcoin Core
+Build Bitcoin Private
 ------------------------
 
 1. Clone the bitcoin source code and cd into `bitcoin`
 
-        git clone https://github.com/bitcoin/bitcoin
+        git clone https://github.com/BTCPrivate/BitcoinPrivate
         cd bitcoin
 
-2.  Build bitcoin-core:
+2.  Build bitcoinprivate:
 
     Configure and build the headless bitcoin binaries as well as the GUI (if Qt is found).
 
@@ -69,7 +69,7 @@ Build Bitcoin Core
 Running
 -------
 
-Bitcoin Core is now available at `./src/bitcoind`
+Bitcoin Private is now available at `./src/bitcoind`
 
 Before running, it's recommended you create an RPC configuration file.
 
