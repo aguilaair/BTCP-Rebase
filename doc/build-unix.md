@@ -1,6 +1,6 @@
 UNIX BUILD NOTES
 ====================
-Some notes on how to build Bitcoin Core in Unix.
+Some notes on how to build Bitcoin Private in Unix.
 
 (For BSD specific instructions, see [build-openbsd.md](build-openbsd.md) and/or
 [build-netbsd.md](build-netbsd.md))
